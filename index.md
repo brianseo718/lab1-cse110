@@ -45,3 +45,6 @@ Things I need to complete this year:
 
 Here's the company I'm interning for this summer!
 ![Hologic](https://mms.businesswire.com/media/20201127005067/en/718080/23/Hologic_Main_Logo_Small_White_cropped.jpg)
+
+This year I want to travel to Singapore!
+![Singapore](https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2015/10/30/1510/Grand-Hyatt-Singapore-P615-Esplanade.jpg/Grand-Hyatt-Singapore-P615-Esplanade.16x9.jpg)
