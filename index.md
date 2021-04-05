@@ -16,7 +16,7 @@ C/C++
 Python
 MATLAB
 ```
-You can find this GitHub repository [here](https://github.com/brianseo718/CSE110_Lab1).
+You can find this GitHub repository [here](https://github.com/brianseo718/lab1-cse110).
 
 Here is my [major](#math-computer-science-major)
 
